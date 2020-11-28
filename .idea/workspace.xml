@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4a64e44-8baa-44d0-bf3d-f909b3ae22a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5npEwKWe8hqhnJv51aJBgz5lH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ALI\Najot Ta'lim\data-warehouse\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ALI\Najot Ta'lim\data-warehouse\photo" />
+      <recent name="C:\ALI\Najot Ta'lim\data-warehouse\avenir font" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4a64e44-8baa-44d0-bf3d-f909b3ae22a7" name="Default Changelist" comment="" />
+      <created>1604999500555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604999500555</updated>
+      <workItem from="1604999501628" duration="5479000" />
+      <workItem from="1605011336053" duration="7258000" />
+      <workItem from="1605021061749" duration="10056000" />
+      <workItem from="1605075864867" duration="3030000" />
+      <workItem from="1605080232955" duration="1738000" />
+      <workItem from="1605112463125" duration="4000" />
+      <workItem from="1605195250795" duration="43000" />
+      <workItem from="1605195400678" duration="85000" />
+      <workItem from="1605239396795" duration="252000" />
+      <workItem from="1605240657176" duration="58000" />
+      <workItem from="1605240907199" duration="28000" />
+      <workItem from="1605282244331" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605003329903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605003329903" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605087636231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605087636231" />
+  </component>
+</project>
